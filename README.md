@@ -9,4 +9,6 @@ My name's Akeem. A tech enthusiast
 - ⚡ Interests: Fashion, Music, Lifestyle & Faith
 
 ![Visitor Count](https://profile-counter.glitch.me/{akeemyakubu}/count.svg)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
