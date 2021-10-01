@@ -14,3 +14,12 @@ My name's Akeem. A tech enthusiast
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
 
+1. The boy
+2. Guy man
+
+1 Gunmen
+* Rat
+* Rent
+  * House
+  * Church
+  * Props
