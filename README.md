@@ -15,12 +15,3 @@ My name's Akeem. A tech enthusiast
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-[people](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-[alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
