@@ -7,7 +7,7 @@ My name's Akeem. A tech enthusiast
 - 💬 Ask me about CSS :sunglasses:
 - 📫 How to reach me: akeemayakubu@gmail.com
 - ⚡ Interests: Fashion, Music, Lifestyle & Faith
-- 
+
 #### **Visitor Count**
 
 ![Visitor Count](https://profile-counter.glitch.me/{akeemyakubu}/count.svg)
