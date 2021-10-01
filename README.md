@@ -10,8 +10,6 @@ My name's Akeem. A tech enthusiast
 
 #### **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{akeemyakubu}/count.svg)
-
 <br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
 
