@@ -9,7 +9,6 @@ My name's Akeem. A tech enthusiast
 - ⚡ Interests: Fashion, Music, Lifestyle & Faith
 
 #### **Visitor Count**
-
 ![Visitor Count](https://profile-counter.glitch.me/{akeemyakubu}/count.svg)
 
 <br>
