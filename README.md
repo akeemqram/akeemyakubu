@@ -8,7 +8,7 @@ My name's Akeem. A tech enthusiast
 - 📫 How to reach me: akeemayakubu@gmail.com
 - ⚡ Interests: Fashion, Music, Lifestyle & Faith
 - 
-##**Visitor Count**
+## **Visitor Count**
 
 ![Visitor Count](https://profile-counter.glitch.me/{akeemyakubu}/count.svg)
 
