@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name's Akeem. A tech enthusiast
+#### My name's Akeem. I'm a digital marketer and tech enthusiast. 
+Alot of things quite interest me.
 - 🌱 I’m currently learning Node.js :relaxed:
 - 🔭 I’ve mastered, and currently adding the finishing touches to my HTML and CSS skill :wink:
 - 👯 I’m looking to collaborate on any project that would enhance me in a practical way
 - 💬 Ask me about CSS :sunglasses:
 - 📫 How to reach me: akeemayakubu@gmail.com
-- ⚡ Interests: Fashion, Music, Lifestyle & Faith
+- ⚡ Interests: Fashion, Music, Football, Lifestyle & Faith
 
 #### **Visitor Count**
 
