@@ -16,4 +16,3 @@ Alot of things quite interest me :wink:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
 
-
