@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name's Akeem. I'm a digital marketer and tech enthusiast, currently learning Web Design. 
+#### My name's Akeem. I'm a digital marketer and tech enthusiast, currently learning Web design. 
 Alot of things quite interest me :wink:
 - 🌱 I’m currently learning Node.js :relaxed:
 - 🔭 I’ve mastered, and currently adding the finishing touches to my HTML and CSS skill :wink:
@@ -15,4 +15,3 @@ Alot of things quite interest me :wink:
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akeemyakubu)
-
