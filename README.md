@@ -7,7 +7,7 @@ Alot of things quite interest me :wink:
 - 👯 I’m looking to collaborate on any project that would enhance me in a practical way
 - 💬 Ask me about CSS :sunglasses:
 - 📫 How to reach me: akeemayakubu@gmail.com
-- ⚡ Interests: Fashion, Music, Football, Lifestyle & Faith
+- ⚡ Interests: Music, Tech, Football
 
 #### **Visitor Count**
 
