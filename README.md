@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name's Akeem. I'm a digital marketer and tech enthusiast, currently learning Web design. 
+#### My name's Akeem. I'm a Digital Marketer, Creative and Tech Enthusiast, currently learning Web design. 
 Alot of things quite interest me :wink:
 - 🌱 I’m currently learning Node.js :relaxed:
 - 🔭 I’ve mastered, and currently adding the finishing touches to my HTML and CSS skill :wink:
